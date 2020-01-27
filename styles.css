@@ -24,7 +24,7 @@ a:hover {
 /* Section Styles */
 
 .kontakt {
-  padding-top: 100;
+  padding-top: 100px;
 
 }
 
@@ -62,7 +62,7 @@ a:hover {
 
 .header-index {
   text-align: center;
-  background: url('images/sverige2.jpeg') no-repeat top center ;
+  background: url('images/sverige-resized.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
 }
@@ -70,7 +70,7 @@ a:hover {
 .header-erfarenheter {
   text-align: center;
   padding-top: 180px;
-  background: url('images/erfarenheter-bild.jpg') no-repeat top center ;
+  background: url('images/erfarenheter-resized.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
 }
@@ -78,7 +78,7 @@ a:hover {
 .header-kontakt {
   text-align: center;
   padding-top: 180px;
-  background: url('images/kontaktbild.jpg') no-repeat top center ;
+  background: url('images/kontaktbild-resized.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
 }
